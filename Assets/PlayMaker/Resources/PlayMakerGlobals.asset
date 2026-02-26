@@ -40,3 +40,6 @@ MonoBehaviour:
   events:
   - Damage
   - Lost
+  - Game Over
+  - Win
+  - Fire1
